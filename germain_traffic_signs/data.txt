@@ -1,0 +1,5 @@
+Ahead_only.png 35
+head_right.png 36
+Speed_limit30.png 1
+Speed_limit70.png 4
+stop.png 14
